@@ -205,7 +205,7 @@ style: |
 
 <!-- _class: custom-class-->
 
-<iframe src="http://media-jobs.ajou.ac.kr/wordpress/media_contents/" style="border: none; width: 100%; height:100%;"></iframe>
+<iframe src="https://media-jobs.ajou.ac.kr/wordpress/media_contents/" style="border: none; width: 100%; height:100%;"></iframe>
 
 ---
 
