@@ -1,7 +1,6 @@
 ---
 marp: true
 class: invert
-paginate: true
 style: |
   .colums {
       display: grid;
@@ -18,6 +17,8 @@ style: |
 # 문과생이지만 공대생입니다
 
 아주대학교 미디어학과 김재준
+
+<img src="./public/qr.jpg" style="width: 8rem; height: 8rem; position: relative; top: 150px; left: 1000px"></img>
 
 ---
 
@@ -205,7 +206,7 @@ style: |
 
 <!-- _class: custom-class-->
 
-<iframe src="https://media-jobs.ajou.ac.kr/wordpress/media_contents/" style="border: none; width: 100%; height:100%;"></iframe>
+<iframe src="http://media-jobs.ajou.ac.kr/wordpress/media_contents/" style="border: none; width: 100%; height:100%;"></iframe>
 
 ---
 
@@ -234,7 +235,7 @@ style: |
 
 <a style="display: flex; justify-content: center;" 
    href="https://www.mindmeister.com/map/2586332798?t=OUZW2XmHPf">
-<img style="width: 85%;" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F71729f0a-9c96-4618-be4f-64bbdc569886%2Fmindmap.png?table=block&id=98c36903-1de1-47e0-89fe-5b140fb9e1f5&spaceId=43b92514-07f9-44a4-99fe-1fa762da02b3&width=1980&userId=103b9cc7-63f5-4d13-b3ac-29f1e36efb86&cache=v2">
+<img style="width: 85%;" src="./public/mindmap.png">
 </a>
 
 ---
